@@ -1,6 +1,7 @@
 # noteit
 Note sharing social network application
 
+###Features
 *lets you make notes
 *lets you share notes
 *follow users
